@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://base64encoder.github.io/sitemap.xml
+Sitemap: https://base64encoderhub.github.io/sitemap.xml
